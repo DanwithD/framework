@@ -2,9 +2,10 @@
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
-	<title>Framework Básico MVC</title>
+	<title>Inicio de Sesión</title>
 </head>
 <body>
 
 </body>
 </html>
+
